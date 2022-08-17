@@ -25,20 +25,16 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<!-- Replace this with whatever GIF tool you used! --> 
+![HelloWorld Gif](helloworld.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challanges I've faced were understanding constraints and how the UI is impacted by them. I also faced some trouble with some syntax, but was able to get everything working in the end.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [James A. Bosch]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
